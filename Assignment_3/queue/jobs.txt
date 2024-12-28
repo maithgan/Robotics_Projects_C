@@ -1,0 +1,4 @@
+1 inspect
+2 lift
+3 crush
+

@@ -1,0 +1,6 @@
+add float float 2.2 5.5
+add string string robots armature
+sub int int 5 7
+sub float float 3.2 7.5
+mult string float word 2.6
+mult string string 2.5 64

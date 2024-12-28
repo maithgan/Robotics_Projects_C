@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "climber",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "climber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-climber-Debug-ba6768f97f2882122ba8.json",
+					"name" : "climber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "print_map::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-print_map-Debug-12ebb3f067b991c99880.json",
+					"name" : "print_map",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_climber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_climber-Debug-5c54cb6b6e1dfa467d4f.json",
+					"name" : "run_climber",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/build",
+		"source" : "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/climber"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

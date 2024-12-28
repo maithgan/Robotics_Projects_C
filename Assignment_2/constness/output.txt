@@ -1,0 +1,7 @@
+alphagamma delta
+joint2joint1 end-effector
+1
+alphagamma delta
+joint2joint1 end-effector
+joint1gamma joint3
+joint2   joint3

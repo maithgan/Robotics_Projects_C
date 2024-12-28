@@ -1,0 +1,5 @@
+package block_goal_msg;
+struct block_goal_t {
+    int64_t timestamp;
+    double transform[4][4];
+}

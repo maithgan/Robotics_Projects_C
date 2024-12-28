@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclimber.a CMakeFiles/climber.dir/climber.cpp.o
+/usr/bin/ranlib libclimber.a

@@ -1,0 +1,4 @@
+1 joint1
+2 joint2
+4 joint3
+6 end-effector

@@ -1,0 +1,5 @@
+v_int= [1, 2, 7, 8]
+v_double= [1, 2, 2.4, 7.2, 8]
+v_float= [-9.2, -3.4]
+v_double+v_double= [2, 4, 4.8, 14.4, 16]
+v_double+v_double2= Error: vectors must be the same size

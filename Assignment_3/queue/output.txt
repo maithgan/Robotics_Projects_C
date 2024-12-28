@@ -1,0 +1,4 @@
+CameraBot 1 
+CarBot 
+DirtBot 3 
+SkyBot 2 

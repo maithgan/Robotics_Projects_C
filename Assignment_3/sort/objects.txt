@@ -1,0 +1,4 @@
+spoon 0.1
+scissors 0.4
+tennis_balls 0.51
+cereal 0.87

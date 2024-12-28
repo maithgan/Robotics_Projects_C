@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/climber.dir/climber.cpp.o -c /home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/climber/climber.cpp",
+  "file": "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/climber/climber.cpp",
+  "output": "CMakeFiles/climber.dir/climber.cpp.o"
+},
+{
+  "directory": "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/print_map.dir/print_map.cpp.o -c /home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/climber/print_map.cpp",
+  "file": "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/climber/print_map.cpp",
+  "output": "CMakeFiles/print_map.dir/print_map.cpp.o"
+},
+{
+  "directory": "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/run_climber.dir/run_climber.cpp.o -c /home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/climber/run_climber.cpp",
+  "file": "/home/rob502/Documents/rob_502/assignments/fa24_rob502/Assignment_6/climber/run_climber.cpp",
+  "output": "CMakeFiles/run_climber.dir/run_climber.cpp.o"
+}
+]
